@@ -11,7 +11,7 @@ def test_add():
 def test_sub():
     assert sub(5,3) ==2
     assert sub(10,3) ==7
-    assert sub(15,3) ==13
+    assert sub(15,3) ==12
     assert sub(2,3) == -1
 
 
